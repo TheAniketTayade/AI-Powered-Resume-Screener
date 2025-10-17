@@ -1,6 +1,6 @@
 # AI-Powered Resume Screener
 
-An intelligent resume screening application that uses AI to analyze and rank job candidates based on job descriptions. Built with Python, Streamlit, Google Cloud Platform, and Gemini AI.
+An intelligent resume screening application that uses AI to analyze and rank job candidates based on job descriptions. Built with Python, Streamlit, Google Cloud Platform, and Gemini.
 
 ## 🚀 Features
 
